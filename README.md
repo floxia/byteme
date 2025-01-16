@@ -20,6 +20,13 @@
 - **About Dialog**: Provides app version, licensing information, and an app icon. ℹ️
 - **GPL-3.0 Licensed**: Open-source under the GPL-3.0 License. 📜
 
+## Download 🔽
+Get the latest version of ByteMe Serial Monitor:
+
+- **Windows Executable**: [Download v0.4 (Latest)](https://github.com/floxia/byteme/releases/download/python/ByteMe.exe)
+
+---
+
 ## Installation:
 
 1. Clone the repository:
