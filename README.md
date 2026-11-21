@@ -23,7 +23,7 @@
 ## Download
 Get the latest version of ByteMe Serial Monitor:
 
-- **Windows Executable**: [Download v0.4 (Latest)](https://github.com/floxia/byteme/releases/download/python/ByteMe.exe)
+- **Windows Executable**: [Download v0.4.1 (Latest)](https://github.com/floxia/byteme/releases/download/python/ByteMe.exe)
 
 ---
 
@@ -52,15 +52,15 @@ Get the latest version of ByteMe Serial Monitor:
     ```
 
     Or via the Windows .bat file:
-    - Double-click `start.bat` to launch the app. 🖱️
+    - Double-click `start.bat` to launch the app.
 
 ## License: 
 This project is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## Powered By:
 This application is powered by:
-- [Python](https://www.python.org/) 🐍
-- [PySide6](https://pypi.org/project/PySide6/) ⚙️
+- [Python](https://www.python.org/)
+- [PySide6](https://pypi.org/project/PySide6/)
 
 ## Acknowledgments: 
 - PySide6 for the GUI framework.
